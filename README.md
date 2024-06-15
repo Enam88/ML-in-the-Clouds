@@ -6,7 +6,7 @@ This project aims to develop a sentiment analysis model using AutoML and MLaaS p
 
 ## Project Structure
 
-```plaintext
+```
 ML-in-the-Clouds/
 │
 ├── data/
