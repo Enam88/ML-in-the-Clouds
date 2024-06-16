@@ -25,9 +25,9 @@ ML-in-the-Clouds/
 │   ├── data_exploration.ipynb
 │   └── model_training.ipynb
 │
-├── scripts/
-│   ├── data_preprocessing.py
-│   └── model_deployment.py
+| 
+│ 
+│   
 │
 ├── README.md
 └── requirements.txt
